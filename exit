@@ -1,0 +1,41 @@
+[33mcommit d26da6b69f03afed6b5a2e65cdc305647b536669[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: mohd kaif <mk2818356@gmail.com>
+Date:   Sun Jul 20 22:28:03 2025 +0530
+
+    connected hooks with db
+
+[33mcommit 73e4a598d35f50f7fe1b60ffd5c8f00930343f5a[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: mohd kaif <mk2818356@gmail.com>
+Date:   Sun Jul 20 15:52:09 2025 +0530
+
+    initalise the db schema
+
+[33mcommit 838e81f4dc0cb1720a0cb2ecd2f700767ae5a737[m
+Author: mohd kaif <mk2818356@gmail.com>
+Date:   Sat Jul 19 22:32:25 2025 +0530
+
+    added prisma database and completed sort of schema
+
+[33mcommit 9579fbd0bcf7ee58d4b13d35ac491b158b94675f[m
+Author: mohd kaif <mk2818356@gmail.com>
+Date:   Wed Jul 2 00:04:00 2025 +0530
+
+    init
+
+[33mcommit 982701b1ea52a8a192f169a93e68788a57b9a9fc[m
+Author: Turbobot <turbobot@vercel.com>
+Date:   Tue Jul 1 22:46:22 2025 +0530
+
+    feat(create-turbo): apply package-manager transform
+
+[33mcommit 52faccc92319c960d0127de23bc3836a9c677491[m
+Author: Turbobot <turbobot@vercel.com>
+Date:   Tue Jul 1 22:46:21 2025 +0530
+
+    feat(create-turbo): apply official-starter transform
+
+[33mcommit d5f9f9eb73be734fb3a2dbe43b5682f1cfcba4b7[m
+Author: Turbobot <turbobot@vercel.com>
+Date:   Tue Jul 1 22:46:21 2025 +0530
+
+    feat(create-turbo): create basic
